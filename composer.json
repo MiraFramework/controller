@@ -1,0 +1,14 @@
+{
+    "name": "miraframework/controller",
+    "description": "A Service Provider to add Controller closure support to Mira Framework",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Joseph Mancuso",
+            "email": "jmancuso.mil@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
