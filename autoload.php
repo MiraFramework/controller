@@ -1,3 +1,3 @@
 <?php
 
-require 'init.php';
+require 'controllerinit.php';
