@@ -13,7 +13,6 @@ class controller
             $value[1]();
             return true;
         }
-
-
+        return false;
     }
 }
