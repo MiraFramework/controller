@@ -2,7 +2,7 @@
 
 namespace Mira;
 
-class controller
+class Controller
 {
     public static function __callStatic($method, $value)
     {
